@@ -2,14 +2,9 @@
 
 ---
 
-## Project: To Do List
+- Project: To Do List
 
----
-
-## Details
-
----
-In this project the use could be create a list of task using an API
+- Details: In this project the use could be create a list of task using an API
 
 ## Stack
 
@@ -27,3 +22,10 @@ In this project the use could be create a list of task using an API
     - description
     - date
     - priority
+
+## Debug
+
+---
+
+- Swagger:  http://localhost:8080/swagger-ui.html
+- H2: http://localhost:8080/h2-console
